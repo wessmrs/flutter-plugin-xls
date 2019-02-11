@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - plugin_xls (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - plugin_xls (from `.symlinks/plugins/plugin_xls/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: .symlinks/flutter/ios
+  plugin_xls:
+    :path: .symlinks/plugins/plugin_xls/ios
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  plugin_xls: 07368b9adbb4ab474ab7eee8fa2216f48cef2ddb
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.4.0
